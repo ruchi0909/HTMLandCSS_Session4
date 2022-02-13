@@ -1,0 +1,191 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    background-color: rgb(4, 160, 121);
+    padding: 25px;
+}
+
+.ru{
+    color: white;
+}
+
+.logo img{
+    width: 6%;
+    height: auto;
+    
+}
+
+.nav{
+    margin: 10px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 40px;
+}
+
+.box1{
+    width: 40%;
+    margin: auto;
+    padding: 60px;
+}
+
+.box1 img{
+    width: 50%;
+    margin: auto;
+}
+
+.box1 a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(4, 160, 121);
+}
+
+.box1 h1{
+    font-size: 50px;
+}
+
+.box1 p{
+    font-size: 20px;
+}
+
+.box1 h5{
+    color: gray;
+}
+
+.box2{
+    width: 40%;
+    margin: auto;
+    padding: 100px 50px;
+    background-color: rgb(195, 216, 216);
+}
+
+.box2 img{
+    width: 100%;
+    margin: auto;
+    align-items: center;
+}
+
+.txt{
+    text-align: center;
+}
+.box2 a{
+    text-decoration: none;
+}
+
+.box3{
+    width: 40%;
+    margin: auto;
+    padding: 100px 50px;
+    background-color: rgb(202, 202, 188);
+}
+
+.box3 img{
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 110px;
+}
+
+.exp{
+    border: 1px solid rgb(6, 196, 101);
+    border-radius: 100px;
+    padding: 10px 30px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 650px;
+    margin-bottom: 100px;
+}
+
+.exp a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    
+    color: rgb(9, 168, 89);
+}
+
+.container1{
+    width: 1550px;
+    
+}
+
+.footer1{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(34, 58, 75);
+}
+
+.footer1_1{
+    margin-top: 30px;
+    margin-left: 300px;
+    color: white;
+    
+}
+
+.footer1_2{
+    margin-top: 30px;
+    margin-left: 100px;
+    color: white;
+    
+}
+
+
+.f1{
+    font-weight: 600;
+}
+
+.f2{
+    font-weight: 400;
+}
+
+.f2 a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.f2 a:hover{
+    text-decoration: underline;
+}
+
+.footer2{
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: rgb(22, 34, 48);
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.f3{
+    margin-right: 600px;
+    margin-left: 300px;
+    font-weight: 400;
+}
+
+.footer2_1 a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+}
+
